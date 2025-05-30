@@ -810,7 +810,7 @@ body{
 
 .soft_skills{
     position: absolute;
-    top: 180%;
+    top: 300%;
     left: 36%;
     font-size: 15px;
     z-index: 1;
@@ -818,7 +818,7 @@ body{
 
 .soft_skillsd{
     position: absolute;
-    top: 420%;
+    top: 490%;
     left: 37%;
     font-size: 15px;
     z-index: 1;
