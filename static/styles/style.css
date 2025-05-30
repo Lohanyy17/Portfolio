@@ -1,0 +1,1032 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('../assets/PORTFÓLIO.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.portfolio_t{
+    width: 400px;
+}
+
+.brilho{
+    width: 125px;
+    margin-top: -100px;
+    margin-left: 50px;
+}
+
+.linha{
+    margin-top: 10px;
+    margin-left: -380px;
+}
+
+.titulo{
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.lo{
+    left: 65%;
+    top: 20%;
+    position: absolute;
+    width: 28%;
+}
+
+.sobremim{
+    width: 13%;
+    position: absolute;
+    top: 50%;
+    left: 70px;
+
+    cursor: pointer;
+}
+
+.habili{
+    width: 13%;
+    position: absolute;
+    top: 51%;
+    left: 290px;
+
+    cursor: pointer;
+}
+
+.softt{
+    width: 13%;
+    position: absolute;
+    top: 51%;
+    left: 530px;
+
+    cursor: pointer;
+}
+
+.projet{
+    width: 13%;
+    position: absolute;
+    top: 62%;
+    left: 190px;
+
+    cursor: pointer;
+}
+
+.cont{
+    width: 13%;
+    position: absolute;
+    top: 62%;
+    left: 430px;
+
+    cursor: pointer;
+}
+
+.me_contate{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin-top: 230px;
+    margin-left: 350px;
+}
+
+.redes_sociais {
+    width: 20%;
+    margin-top: 30px;
+    margin-left: 285px;
+
+    cursor: pointer;
+}
+
+.est{
+    position: absolute;
+    top: 15%;
+    left: 58%;
+}
+
+.estd{
+    position: absolute;
+    top: 88%;
+    left: 93%;
+}
+
+
+/* Sobre mim  */
+
+.sobre_mim{
+    margin-left: 60px;
+    margin-top: 80px;   
+}
+
+.deco{
+    width: 20%;
+    position: absolute;
+    top: 105%;
+    left: 80%;
+}
+
+.deco2{
+    width: 20%;
+    position: absolute;
+    top: 180%;
+    left: 5px;
+}
+
+.sobre_mim_texto{
+    margin-top: -220px;
+    margin-left: 17.5%;
+    width: 70%;
+    font-size: 17px;
+    font-family: 'Merriweather', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.quem{
+    margin-top: 50px;
+    margin-left: 13%;
+    width: 80%;
+}
+
+.livro{
+    width: 20%;
+    margin-left: -4%;
+    margin-top: -50px;
+}
+
+/* Habilidades */
+
+.habilidades{
+    margin-top: 80px;
+    margin-left: 4%;
+}
+
+.estrelasb{
+    width: 20%;
+    margin-left: 80%;
+    position: absolute;
+    top: 225%;    
+}
+
+.css{
+    width: 20%;
+    margin-left: 12%;
+    margin-top: 30px;
+
+    transition: transform 0.4s ease;
+}
+
+.css:hover{
+    transform: scale(1.1);
+}
+
+.html{
+    width: 20%;
+    margin-left: 42%;
+    margin-top: -20%;
+
+    transition: transform 0.4s ease;
+}   
+
+.html:hover{
+    transform: scale(1.1);
+}
+
+.js{
+    width: 20%;
+    margin-left: 70%;
+    position: absolute;
+    top: 250%;
+
+    transition: transform 0.4s ease;
+}
+
+.js:hover{
+    transform: scale(1.1);
+}
+
+.canva{
+    width: 20%;
+    margin-left: 12%;
+    margin-top: 20px;
+
+    transition: transform 0.4s ease;
+}
+
+.canva:hover{
+    transform: scale(1.1);
+}
+
+.sqlite{
+    width: 20%;
+    margin-left: 42%;
+    position: absolute;
+    top: 296%;
+
+    transition: transform 0.4s ease;
+}
+
+.sqlite:hover{
+    transform: scale(1.1);
+}
+
+.python{
+    width: 20%;
+    margin-left: 70%;
+    position: absolute;
+    top: 290%;
+
+    transition: transform 0.4s ease;
+}
+
+.python:hover{
+    transform: scale(1.1);
+}
+
+.fita{
+    width: 20%;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.seta{
+    width: 20%;
+    margin-left: 58%;
+    position: absolute;
+    top: 335%;
+}
+
+/* soft skills */
+
+.soft{
+    width: 20%;
+    margin-left: 4%;
+    margin-top: 5%;
+}
+
+.estrelass{
+    width: 20%;
+    margin-left: -3%;
+    position: absolute;
+    top: 465%;
+}
+
+.estrelassd{
+    width: 20%;
+    margin-left: 80%;
+    position: absolute;
+    top: 380%;
+}
+
+.interesses{
+    margin-left: 35%;
+    margin-top: 39%;
+}
+
+.cardeneta{
+    width: 30%;
+    margin-left: 15%;
+    position: absolute;
+    top: 400%;
+}
+
+.cardenetad{
+    width: 30%;
+    margin-left: 50%;
+    position: absolute;
+    top: 400%;
+}
+
+.soft_skills{
+    font-family: 'Merriweather', sans-serif;
+    color: #e6e6e4 ;
+    font-size: 25px;
+    position: absolute;
+    top: 420%;
+    left: 26%;
+}
+
+.soft_skillsd{
+    font-family: 'Merriweather', sans-serif;
+    color: #e6e6e4 ;
+    font-size: 25px;
+    position: absolute;
+    top: 420%;
+    left: 61%;
+}
+
+/* Projetos */
+
+.projetos{
+    width: 93%;
+    margin-top: 80px;
+    margin-left: 4%;
+}
+
+
+.gamemaster{
+    width: 25%;
+    position: absolute;
+    top: 533%;
+    left: 6%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.gamemaster:hover{
+    transform: scale(1.1);
+}
+
+.gtmax3d{
+    width: 25%;
+    position: absolute;
+    top: 533%;
+    left: 37%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.gtmax3d:hover{
+    transform: scale(1.1);
+}
+
+.jogo{
+    width: 25%;
+    position: absolute;
+    top: 533%;
+    left: 68%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.jogo:hover{
+    transform: scale(1.1);
+}
+
+.chat{
+    width: 25%;
+    position: absolute;
+    top: 566%;
+    left: 6%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.chat:hover{
+    transform: scale(1.1);
+}
+
+.miley{
+    width: 25%;
+    position: absolute;
+    top: 566%;
+    left: 37%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.miley:hover{
+    transform: scale(1.1);
+}
+
+.supernatural{
+    width: 25%;
+    position: absolute;
+    top: 566%;
+    left: 68%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.supernatural:hover{
+    transform: scale(1.1);
+}
+
+.botao{
+    position: absolute;
+    top: 605%;
+    left: 42%;
+
+    transition: transform 0.4s ease;
+}
+
+.botao:hover{
+    transform: scale(1.1);
+}
+
+/* Contatos */
+
+.contatosd{
+    width: 93%;
+    position: absolute;
+    top: 630%;
+    left: 4%;
+    z-index: -1;
+}
+
+.titulod{
+    position: absolute;
+    top: 645%;
+    left: 52%;
+}
+
+.phone{
+    position: absolute;
+    top: 631%;
+    left: 10%;
+}
+
+.telefone{
+    width: 36%;
+    position: absolute;
+    top: 643%;
+    left: 8%;
+}   
+
+.star{
+    position: absolute;
+    top: 640%;
+    left: 30%;
+}
+
+.stard{
+    position: absolute;
+    top: 710%;
+    left: 35%;
+}
+
+form{
+    margin-top: 300px;
+    margin-left: 60%;
+    max-width: 400px;
+    font-size: 35px;
+    padding: 50px 50px;
+}
+
+::placeholder{
+    color: black;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    margin-top: 15px;
+}
+
+input{
+    padding: 15px;
+    margin-left: -153px;
+    background-color: #b4b1b0;
+    width: 150%;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: -120px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+textarea{
+    width: 152%;
+    padding: 15px;
+    background-color: #b4b1b0;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: -153px;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #b4b1b0;
+}
+
+.botoes{
+    display: flex;
+    margin-left: -50px;
+    gap: 25px;
+    justify-content: center;
+}
+
+@media (max-width: 1024px) {
+
+* {
+  box-sizing: border-box;
+  max-width: 100vw;
+}
+
+body{
+    background-image: url('../assets/PORTFÓLIO.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+
+    overflow-x: hidden;
+    
+}
+
+.portfolio_t{
+    width: 220px;
+    margin-left: -10px;
+}
+
+.linha{
+    width: 200px;
+    position: absolute;
+    top: -30%;
+    margin-left: -205px;
+}
+
+.brilho{
+    display: none;
+}
+
+.titulo{
+    width: 190px;
+    margin-left: 15px;
+}
+
+.lo{
+    width: 35%;
+    margin-left: -5px;
+    margin-top: -70px;
+}
+
+.sobremim{
+    width: 23%;
+    margin-top: -230px;
+    margin-left: -50px;
+}
+
+.habili{
+    width: 23%;
+    margin-top: -205px;
+    margin-left: -270px;
+}
+
+.projet{
+    width: 23%;
+    margin-top: -285px;
+    margin-left: -75px;
+}
+
+.softt{
+    width: 23%;
+    margin-top: -235px;
+    margin-left: -415px;
+}
+
+.cont{
+    width: 23%;
+    margin-top: -250px;
+    margin-left: -360px;
+}
+
+.est{
+    position: absolute;
+    top: 8%;
+    left: 210px;
+    width: 20px;
+}
+
+.estd{
+   display: none;
+}
+
+.me_contate{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    margin-top: 110px;
+    margin-left: 70px;
+}
+
+.linkedin{
+    width: 50px;
+    margin-left: -250px;
+    margin-top: -10px;
+}
+
+.git{
+    width: 60px;
+    margin-left: -5px;
+    margin-top: -30px;
+}
+
+.insta{
+    width: 50px;
+    margin-left: -5px;
+    margin-top: -30px;
+}
+
+.redes_sociais {
+    margin-top: 20px;
+}
+
+/* Sobre mim */
+
+.sobre_mim{
+    width: 50%;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.quem{
+    display: none;
+}
+
+.sobre_mim_texto{
+    text-align: center;
+    margin-left: 90px;
+    margin-top: 50px;
+    font-size: 15px;
+    color: white;
+
+    background-color: gray;
+    padding: 20px;
+}
+
+.deco{
+    width: 30%;
+    position: absolute;
+    top: 65%;
+    left: 255px;
+}
+
+.deco2{
+    display: none;
+}
+
+.livro{
+    width: 30%;
+    position: absolute;
+    top: 160%;
+    left: 45px;
+}
+
+/* Habilidades */
+
+.habilidades{
+    width: 60%;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.estrelasb{
+    width: 30%;
+    margin-left: 60%;
+    position: absolute;
+    top: 180%;
+}
+
+.css{
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 20px;
+
+    transition: transform 0.4s ease;
+}
+
+.css:hover{
+    transform: scale(1.1);
+}
+
+.html{
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 20px;
+
+    transition: transform 0.4s ease;
+}
+
+.html:hover{
+    transform: scale(1.1);
+}
+
+.js{
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 5px;
+
+    transition: transform 0.4s ease;
+}
+
+.js:hover{
+    transform: scale(1.1);
+}
+
+.canva{
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 5px;
+
+    transition: transform 0.4s ease;
+}
+
+.canva:hover{
+    transform: scale(1.1);
+}
+
+.sqlite{
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 10px;
+
+    transition: transform 0.4s ease;
+}
+
+.sqlite:hover{
+    transform: scale(1.1);
+}
+
+.python{
+    width: 50%;
+    margin-left: 30%;
+    margin-top: -130px;
+
+    transition: transform 0.4s ease;
+}
+
+.python:hover{
+    transform: scale(1.1);
+}
+
+.fita{
+    width: 40%;
+    margin-left: 5px;
+    margin-top: 390px;
+}
+
+.seta{
+    display: none;
+}
+
+/* soft skills */
+
+.soft{
+    width: 50%;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.cardeneta{
+    width: 80%;
+    margin-left: 10px;
+    margin-top: -410px;
+}
+
+.soft_skills{
+    position: absolute;
+    top: 358%;
+    left: 36%;
+    font-size: 15px;
+    z-index: 1;
+}
+
+.soft_skillsd{
+    position: absolute;
+    top: 400%;
+    left: 37%;
+    font-size: 15px;
+    z-index: 1;
+}
+
+.cardenetad{
+    width: 80%;
+    margin-left: 10px;
+    margin-top: -100px;
+}
+
+.interesses{
+    width: 50%;
+    margin-left: 120px;
+    margin-top: 700px;
+}
+
+.estrelass{
+    width: 50%;
+    margin-left: 230px;
+    position: absolute;
+    top: 335%;
+}
+
+.estrelassd{
+    width: 50%;
+    margin-left: -20px;
+    position: absolute;
+    top: 425%;
+}
+
+/* Projetos */
+
+.projetos{
+    display: none;
+}
+
+.botao{
+    width: 50%;
+    margin-top: -290%;
+    margin-left: -15%;
+}
+
+.gamemaster{
+    width: 90%;
+    position: absolute;
+    top: 470%;
+    left: 2.5%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.gamemaster:hover{
+    transform: scale(1.1);
+}
+
+.gtmax3d{
+    width: 90%;
+    position: absolute;
+    top: 500%;
+    left: 2.5%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.gtmax3d:hover{
+    transform: scale(1.1);
+}
+
+.jogo{
+    width: 90%;
+    position: absolute;
+    top: 530%;
+    left: 2.5%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.jogo:hover{
+    transform: scale(1.1);
+}
+
+.chat{
+    width: 90%;
+    position: absolute;
+    top: 560%;
+    left: 2.5%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.chat:hover{
+    transform: scale(1.1);
+}
+
+.miley{
+    width: 90%;
+    position: absolute;
+    top: 595%;
+    left: 2.5%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.miley:hover{
+    transform: scale(1.1);
+}
+
+.supernatural{
+    width: 90%;
+    position: absolute;
+    top: 630%;
+    left: 2.5%;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+
+.supernatural:hover{
+    transform: scale(1.1);
+}   
+
+/* Contatos */
+
+.contatosd{
+    display: none;
+}
+
+.telefone{
+    display: none;
+}
+
+.star{
+    display: none;
+}
+
+.stard{
+    display: none;
+}
+
+.titulod{
+    width: 80%;
+    position: absolute;
+    top: 665%;
+    left: 10%;
+}
+
+.phone{
+    width: 20%;
+    position: absolute;
+    top: 670%;
+    left: -2%;
+}
+
+form{
+    position: absolute;
+    top: 640%;
+    left: -13%;
+    max-width: 80%;
+    font-size: 20px;
+    padding: 30px 30px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+input, textarea{
+    width: 100%;
+    padding: 50px;
+    background-color: #b4b1b0;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 5px;
+    font-size: 16px;
+
+    width: 200%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: #ddd;
+}
+
+.botoes{
+    display: flex;
+    margin-left: -155px;
+    gap: 25px;
+    justify-content: center;
+}
+}
