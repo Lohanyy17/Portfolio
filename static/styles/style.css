@@ -290,14 +290,14 @@ body {
     width: 30%;
     margin-left: 15%;
     position: absolute;
-    top: 580%;
+    top: 400%;
 }
 
 .cardenetad{
     width: 30%;
     margin-left: 50%;
     position: absolute;
-    top: 580%;
+    top: 400%;
 }
 
 .soft_skills{
@@ -805,7 +805,7 @@ body{
 .cardeneta{
     width: 80%;
     margin-left: 10px;
-    margin-top: -410px;
+    margin-top: -390px;
 }
 
 .soft_skills{
@@ -827,7 +827,7 @@ body{
 .cardenetad{
     width: 80%;
     margin-left: 10px;
-    margin-top: -100px;
+    margin-top: -90px;
 }
 
 .interesses{
