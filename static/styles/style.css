@@ -739,7 +739,7 @@ body{
 .js{
     width: 50%;
     margin-left: 30%;
-    margin-top: 20%;
+    margin-top: 15%;
 
     transition: transform 0.4s ease;
 }
@@ -763,7 +763,7 @@ body{
 .sqlite{
     width: 50%;
     margin-left: 30%;
-    margin-top: 10px;
+    margin-top: 20px;
 
     transition: transform 0.4s ease;
 }
@@ -775,7 +775,7 @@ body{
 .python{
     width: 50%;
     margin-left: 30%;
-    margin-top: -130px;
+    margin-top: -145px;
 
     transition: transform 0.4s ease;
 }
