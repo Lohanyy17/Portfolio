@@ -810,18 +810,20 @@ body{
 
 .soft_skills{
     position: absolute;
-    top: 120%;
+    top: 250%;
     left: 36%;
     font-size: 15px;
     z-index: 1;
+    color: black;
 }
 
 .soft_skillsd{
     position: absolute;
-    top: 298%;
+    top: 305%;
     left: 37%;
     font-size: 15px;
     z-index: 1;
+    color: black;
 }
 
 .cardenetad{
