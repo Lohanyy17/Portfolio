@@ -739,7 +739,7 @@ body{
 .js{
     width: 50%;
     margin-left: 30%;
-    margin-top: 10px;
+    margin-top: -5px;
 
     transition: transform 0.4s ease;
 }
