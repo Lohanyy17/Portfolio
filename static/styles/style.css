@@ -693,7 +693,7 @@ body{
 .livro{
     width: 30%;
     position: absolute;
-    top: 145%;
+    top: 120%;
     left: 45px;
 }
 
@@ -775,7 +775,7 @@ body{
 .python{
     width: 50%;
     margin-left: 30%;
-    margin-top: 30%;
+    margin-top: 25%;
 
     transition: transform 0.4s ease;
 }
