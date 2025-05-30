@@ -763,7 +763,7 @@ body{
 .sqlite{
     width: 50%;
     margin-left: 30%;
-    margin-top: 20px;
+    margin-top: 15%;
 
     transition: transform 0.4s ease;
 }
