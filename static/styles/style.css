@@ -670,8 +670,8 @@ body{
 
 .sobre_mim_texto{
     text-align: center;
-    margin-left: 80px;
-    margin-top: 50px;
+    margin-left: 75px;
+    margin-top: 45px;
     font-size: 15px;
     color: white;
 
@@ -693,7 +693,7 @@ body{
 .livro{
     width: 30%;
     position: absolute;
-    top: 160%;
+    top: 165%;
     left: 45px;
 }
 
@@ -739,7 +739,7 @@ body{
 .js{
     width: 50%;
     margin-left: 30%;
-    margin-top: 10px;
+    margin-top: 5px;
 
     transition: transform 0.4s ease;
 }
@@ -810,7 +810,7 @@ body{
 
 .soft_skills{
     position: absolute;
-    top: 358%;
+    top: 355%;
     left: 36%;
     font-size: 15px;
     z-index: 1;
@@ -818,7 +818,7 @@ body{
 
 .soft_skillsd{
     position: absolute;
-    top: 400%;
+    top: 380%;
     left: 37%;
     font-size: 15px;
     z-index: 1;
@@ -832,8 +832,8 @@ body{
 
 .interesses{
     width: 50%;
-    margin-left: 120px;
-    margin-top: 700px;
+    margin-left: 119px;
+    margin-top: 720px;
 }
 
 .estrelass{
