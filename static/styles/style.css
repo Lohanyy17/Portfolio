@@ -130,7 +130,7 @@ body {
 
 .deco2{
     width: 20%;
-    position: fixed;
+    position: absolute;
     top: 180%;
     left: 5px;
 }
