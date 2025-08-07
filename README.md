@@ -13,7 +13,7 @@ Pensado para oportunidades futuras, o site foi construído com foco na responsiv
 ![print projetos](static/assets/printprojetos.png)
 ![print contato](static/assets/printcontato.png)
 
-### ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
+### ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚˚₊‧꒰ა ☆ ໒꒱ ‧₊˚˚₊‧꒰ა ☆ ໒꒱ ‧₊˚˚₊‧꒰ა ☆ ໒꒱ ‧₊˚˚₊‧꒰ა ☆ ໒꒱ ‧₊˚˚₊‧꒰ა ☆ ໒꒱ ‧₊˚˚₊‧꒰ა ☆ ໒꒱ ‧₊˚˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 
 ## Links ── .✦
 
