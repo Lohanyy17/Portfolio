@@ -12,3 +12,9 @@ Pensado para oportunidades futuras, o site foi construído com foco na responsiv
 ![print skills](static/assets/printskills.png)
 ![print projetos](static/assets/printprojetos.png)
 ![print contato](static/assets/printcontato.png)
+
+
+## Links
+
+[Protótipo](https://portfolio-tf9j.onrender.com/)
+[Site Renderizado](https://www.canva.com/design/DAGfFgELU5M/Ifd2Ytov07QJdoCWNWLPJA/edit)
