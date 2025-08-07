@@ -4,3 +4,5 @@
 Pensado para oportunidades futuras, o site foi construído com foco na responsividade, garantindo uma navegação eficiente tanto em dispositivos móveis quanto em notebooks.<i>
 
 ## Desenvolvimento
+
+![print inicio](static/assets/printcapa.png)
