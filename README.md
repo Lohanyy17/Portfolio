@@ -18,5 +18,5 @@ Pensado para oportunidades futuras, o site foi construído com foco na responsiv
 [Protótipo](https://portfolio-tf9j.onrender.com/) <br>
 [Site Renderizado](https://www.canva.com/design/DAGfFgELU5M/Ifd2Ytov07QJdoCWNWLPJA/edit)
 
-### ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
+###    ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 
